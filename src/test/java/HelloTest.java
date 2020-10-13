@@ -4,6 +4,8 @@ public class HelloTest {
 
         System.out.println("HelloTest");
 
+        System.out.println("lets make an awesome commit");
+
 
 
     }
